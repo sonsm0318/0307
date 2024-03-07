@@ -24,3 +24,5 @@ print("Hello, world!")
 -----
 - [x] ㄴㅁㅎㄹ
 - [ ] asf
+🧮
+[유튜브](https://www.youtube.com/)
