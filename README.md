@@ -23,3 +23,6 @@
 ``` bash
 여기에 코드를 입력하세요
 ```
+``` python
+print("Hello, world!")
+```
