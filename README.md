@@ -1,4 +1,4 @@
-# test_0307
+⁰# test_0307
 ## asdlkgbjh
 ### asfgag
 #### asgadshwh
@@ -28,5 +28,5 @@ print("Hello, world!")
 [유튜브](https://www.youtube.com/)
 [이미지](https://example.com/cat.jpg)
 $$
-x^2+5x
+E=mc^2
 $$
