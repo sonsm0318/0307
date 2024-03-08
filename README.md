@@ -31,3 +31,7 @@ print("Hello, world!")
 $$
 E=mc^2
 $$
+
+$$
+x^3+2x
+$$
