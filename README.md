@@ -36,7 +36,7 @@ $$
 x^3+2x
 $$
 
-![image](https://github.com/sonsm0318/0307/assets/160005229/696c624b-f025-48d0-b4c5-46d0cbae508e)
+[image](https://github.com/sonsm0318/0307/assets/160005229/696c624b-f025-48d0-b4c5-46d0cbae508e)
 
 
 | 제목 1   | 제목 2   | 제목 3   |
